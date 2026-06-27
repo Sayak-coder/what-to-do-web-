@@ -1,0 +1,123 @@
+{
+  "reminders": [
+    {
+      "email": "biswasrick256@gmail.com",
+      "title": "abc",
+      "notes": "abc",
+      "date": "2026-06-27",
+      "time": "15:56",
+      "recurrence": {
+        "type": "none",
+        "interval": 1,
+        "until": ""
+      },
+      "updatedAt": "2026-06-27T10:25:47.507Z",
+      "id": "58c26fc2-f1b6-4fd0-ba1e-e39477ca8452",
+      "createdAt": "2026-06-27T10:25:47.507Z",
+      "sentDates": [
+        "2026-06-27"
+      ],
+      "lastDispatchedAt": "2026-06-27T10:26:14.847Z",
+      "deliverySummary": {
+        "email": {
+          "delivered": false,
+          "mode": "smtp-error",
+          "error": "connect ENETUNREACH 192.178.211.109:587"
+        },
+        "push": {
+          "delivered": false,
+          "mode": "no-subscriptions"
+        }
+      }
+    },
+    {
+      "email": "biswasrick256@gmail.com",
+      "title": "Fresh reminder test",
+      "notes": "Created to test time-based dispatch",
+      "date": "2026-06-27",
+      "time": "15:55",
+      "recurrence": {
+        "type": "none",
+        "interval": 1,
+        "until": ""
+      },
+      "updatedAt": "2026-06-27T10:23:51.214Z",
+      "id": "be71b88d-4350-4b1e-973f-631017b91bd0",
+      "createdAt": "2026-06-27T10:23:51.214Z",
+      "sentDates": [
+        "2026-06-27"
+      ],
+      "lastDispatchedAt": "2026-06-27T10:24:20.269Z",
+      "deliverySummary": {
+        "email": {
+          "delivered": false,
+          "mode": "smtp-error",
+          "error": "connect ENETUNREACH 192.178.211.109:587"
+        },
+        "push": {
+          "delivered": false,
+          "mode": "no-subscriptions"
+        }
+      }
+    },
+    {
+      "email": "biswasrick256@gmail.com",
+      "title": "practical exam",
+      "notes": "practical exam : physics and NSS",
+      "date": "2026-07-02",
+      "recurrence": {
+        "type": "daily",
+        "interval": 9,
+        "until": "2026-07-02"
+      },
+      "updatedAt": "2026-06-26T20:57:19.111Z",
+      "id": "42b8db48-a356-4f55-ae01-7d39ca624d61",
+      "createdAt": "2026-06-26T20:57:19.111Z",
+      "sentDates": []
+    },
+    {
+      "email": "biswasrick256@gmail.com",
+      "title": "math tuition",
+      "notes": "math tuition CO1,2,5\nnlp \npracticl BEE",
+      "date": "2026-06-28",
+      "recurrence": {
+        "type": "none",
+        "interval": 1,
+        "until": ""
+      },
+      "updatedAt": "2026-06-26T20:54:08.228Z",
+      "id": "b7180a94-e492-4ea7-ac00-93e5d720a7b1",
+      "createdAt": "2026-06-26T20:54:08.228Z",
+      "sentDates": []
+    },
+    {
+      "email": "test@example.com",
+      "title": "Check invoices",
+      "notes": "Monthly billing",
+      "date": "2026-06-27",
+      "recurrence": {
+        "type": "monthly",
+        "interval": 1,
+        "until": ""
+      },
+      "updatedAt": "2026-06-26T20:43:39.278Z",
+      "id": "596fde15-695d-49d5-b2a5-346671013d2d",
+      "createdAt": "2026-06-26T20:43:39.278Z",
+      "sentDates": [
+        "2026-06-27"
+      ],
+      "lastDispatchedAt": "2026-06-26T20:46:54.527Z",
+      "deliverySummary": {
+        "email": {
+          "delivered": false,
+          "mode": "mock"
+        },
+        "push": {
+          "delivered": false,
+          "mode": "no-subscriptions"
+        }
+      }
+    }
+  ],
+  "subscriptions": []
+}
